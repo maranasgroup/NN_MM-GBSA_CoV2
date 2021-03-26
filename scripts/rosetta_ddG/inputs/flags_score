@@ -1,0 +1,13 @@
+# defaults
+-ex1 
+-ex2
+-ex2aro
+-use_input_sc
+-ignore_zero_occupancy false
+
+-partners={0}
+-pack_separated 
+-add_regular_scores_to_scorefile
+
+-out:suffix _{1}
+
